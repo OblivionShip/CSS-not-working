@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Top 3 most important things you need to survive</title>
+	
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<h1>forums</h1>
+	<table>
+  	<tr>
+		<th>ID:<br><print>89913664</print></th>
+	</tr>
+	<tr>
+		<th>Name:<br><print>Dery Wang</print></th>
+	</tr>
+	<tr>
+		<th>Forum Description:<br><print>This forum is about the three most 
+		important things that keeps living organisms alive. 		
+		<p><li>
+		<a href="#Water">Water</a><br/>    
+		<li><a href="#Oxygen">Oxygen</a><br/>
+		<li><a href="#Food">Food</a><br/></p>
+		Click on any link to head to the thread/forum discussion board to read more about it.</print>
+		</th>
+	</tr>
+</table>
+</html>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<html>
+<body>
+<h2>forum_topics</h2>
+	<table>
+	<tr>
+		<th>forum_id1</th>
+	</tr>
+<tr>
+<td>
+		<h2 id="Water">What about water anyways?</h2>
+When is <a href=“#water_liquid”>water a liquid?</a><br/>
+When is <a href=“#water_gas”>water a gas?</a><br/>
+</td>
+</tr>
+	</table>
+	<a href="#top">Top</a>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<html>
+<body>
+<h2>forum_topics</h2>
+	<table>
+	<tr>
+		<th>forum_id2</th>
+	</tr>
+<tr>    
+<td>
+		<h2 id="Oxygen">What about oxygen anyways?</h2>
+What are the elements that <a href=“oxygen_element”>compose Oxygen?</a><br/>
+What are the <a href=“oxygen_liquid”>uses of liquid oxygen?</a><br/>
+</td>
+</tr>
+	</table>
+	<a href="#top">Top</a>
+</html>
+</body>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<html>
+<body>
+<h2>forum_topics</h2>
+	<table>
+	<tr>
+		<th>forum_id3</th>
+	</tr>
+<tr>
+<td>
+		<h2 id="Food">What about food anyways?</h2>
+1. How many calories are in 100 grams of the average<a href=“vegetable”> vegetable?</a><br/>
+2. What is considered <a href=“fruit”>both a fruit and a vegetable?</a><br/>
+</td>
+</tr>
+	</table>
+	<a href="#top">Top</a>
+</body>
+</html>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<html>
+<body>
+<h2>forum_posts</h2>
+	<table>
+	<tr>
+		<th>forum_id1</th>
+	</tr>
+<tr>
+<td>
+<p1 id=“water_liquid”>Post- Between 99°C and 1°C, water is considered to be in a liquid state.</p1><br>
+<p1>Reply- And below 1°C means water freezes to become ice. </p1>
+<br><br>
+<p1 id="water_gas">Post- Water is a gas past 100°C</p1><br>
+<p1>Reply- Or 212°F if you use the Fahrenheit scale.</p1><br><br>
+</td>
+</tr>
+</table>
+<a href="#top">Top</a>
+</body>
+</html>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<html>
+<body>
+<h2>forum_posts</h2>
+	<table>
+	<tr>
+		<th>forum_id2</th>
+	</tr>
+<tr>
+<td>
+<p1 id=“oxygen_element”>Post- The elements that compose oxygen is just O.</p1><br>
+<p1>Reply- You need two O atoms, because it takes 2 O atoms to make a single molecule of oxygen. </p1>
+<br><br>
+<p1 id="oxygen_liquid">Post- Liquid oxygen is used as fuel for missiles and rockets.</p1><br>
+<p1>Reply- Fun fact, liquid oxygen's boiling point is -183°C.</p1><br><br>
+</td>
+</tr>
+</table>
+<a href="#top">Top</a>
+</body>
+</html>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<html>
+<body>
+<h2>forum_posts</h2>
+	<table>
+	<tr>
+		<th>forum_id3</th>
+	</tr>
+<tr>
+<td>
+<p1 id=“vegetable”>Post- 65 calories are in 100 grams of the average vegetable.</p1><br>
+<p1>Reply- Not all vegetables have 65 calories in 100 grams of said vegetable though. </p1>
+<br><br>
+<p1 id="fruit">Post- Tomatoes are considered a fruit even though people treat tomatoes as a vegetable.</p1><br>
+<p1>Reply- Fun fact, cucumbers as well are considered vegetables even though they are actually fruits.</p1><br><br>
+</td>
+</tr>
+</table>
+<a href="#top">Top</a>
+</body>
+</html>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</p>
+</body>
+</html>
